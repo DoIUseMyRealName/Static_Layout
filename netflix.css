@@ -1,0 +1,55 @@
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    background-color: black;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.seeWhat {
+    text-align: center;
+}
+h1 {
+    font-size: 65px
+}
+
+.signIn {
+    display: inline-block;
+    width: 70px;
+    height: 20px;
+    padding: 5px;    
+    background-color: red; 
+    border-radius:5px 5px 5px 5px;
+    text-align: center;
+    display: block;
+    float: right;
+    margin-top: 10px;
+  }
+
+  .try {
+      display: block;
+      width: 455px;
+      height: 80px;
+      padding: 5px;
+      background-color: red;
+      border-radius: 3px 3px 3px 3px;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      vertical-align: middle;
+      line-height: 75px;
+      font-size: 32px;
+  }
+
+  .flex-container {
+      display: flex;
+  }
+
+  #ifYouDecide {
+      font-size: 26px
+  }
